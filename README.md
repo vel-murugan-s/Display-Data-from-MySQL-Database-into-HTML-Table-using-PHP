@@ -1,0 +1,1 @@
+# Display-Data-from-MySQL-Database-into-HTML-Table-using-PHP
